@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Pn5_M7P21AboqNsT2YAb">
+    <mxGraphModel dx="934" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="560" width="680" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="" vertex="1">
+          <mxGeometry height="260" width="555" x="120" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-18" edge="1" parent="1" source="A2Blc5RHVk51r3sN9rLl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A2Blc5RHVk51r3sN9rLl-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Introduction" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-7" edge="1" parent="1" source="A2Blc5RHVk51r3sN9rLl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A2Blc5RHVk51r3sN9rLl-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-14" edge="1" parent="1" source="A2Blc5RHVk51r3sN9rLl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A2Blc5RHVk51r3sN9rLl-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FFE599;gradientDirection=radial;" value="Applied Examples&lt;br&gt;Based Motivation" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-10" edge="1" parent="1" source="A2Blc5RHVk51r3sN9rLl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A2Blc5RHVk51r3sN9rLl-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-21" edge="1" parent="1" source="A2Blc5RHVk51r3sN9rLl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A2Blc5RHVk51r3sN9rLl-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#F8CECC;gradientDirection=radial;" value="Different Types" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-8" edge="1" parent="1" source="A2Blc5RHVk51r3sN9rLl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A2Blc5RHVk51r3sN9rLl-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-6" parent="1" style="whiteSpace=wrap;html=1;" value="How does it work?" vertex="1">
+          <mxGeometry height="60" width="120" x="265" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-17" edge="1" parent="1" source="A2Blc5RHVk51r3sN9rLl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A2Blc5RHVk51r3sN9rLl-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;gradientColor=#F8CECC;gradientDirection=radial;" value="1. Supervised&lt;br&gt;2. Unsupervised&lt;div&gt;3. Reinforcement&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;gradientColor=#FFE599;gradientDirection=radial;" value="Don&#39;t worry about different classes; pick something that can be used throughout the chapter, use 2 main examples Reg, Class" vertex="1">
+          <mxGeometry height="100" width="120" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-16" parent="1" style="whiteSpace=wrap;html=1;rounded=0;gradientColor=#F8CECC;gradientDirection=radial;" value="- Why do we need each type?&lt;div&gt;- How are they different from each other?&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="370" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="A2Blc5RHVk51r3sN9rLl-20" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="High level Practical&amp;nbsp;&lt;br&gt;Overview&lt;br&gt;T1 notebook" vertex="1">
+          <mxGeometry height="60" width="120" x="555" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
